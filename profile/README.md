@@ -1,1 +1,3 @@
-# Ahah
+# A Minecraft mod with computers that are running JavaScript and HTML pages...
+
+# CURRENT PROJECT STATE: *Brainstorming*
